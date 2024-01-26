@@ -1,5 +1,5 @@
 # Prathamesh Shinde - Data Science Enthusiast
-👋 Hi, My name is Prathamesh Shinde, currently pursuing a Master's in Data Science (PB). i am passionate about leveraging data to derive meaningful insights and am actively seeking freelancing opportunities in machine learning, python, tableau, MySQL, and AI.
+👋 Hi, My name is Prathamesh Shinde, currently pursuing a Master's in Data Science (PB). i am passionate about leveraging data to derive meaningful insights and am actively seeking freelancing opportunities in machine learning, Python, Tableau, MySQL, and AI.
 
 ## About Me
 
