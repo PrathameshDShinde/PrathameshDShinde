@@ -4,10 +4,8 @@
 ## About Me
 
 - 💼 **Currently:**  Pursuing a Master's in Data Science (PB), Pune, India. 
-- 🌱 **Learning:** Always exploring new concepts and technologies in the field of data science.
+- 🌱 **Learning:** Always exploring new concepts and technologies in the field of data science.<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 👀 **Interests:** Machine Learning, Python, Tableau, MySQL, Power BI , AI.
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## Contact Information
 
